@@ -7,12 +7,20 @@ a 30 cell animation sprite sheet using the pygame library blit.
 The individual cells of the animation are stored in a list of 30
 elements.
 
-Run the game with:
+Run the game on your desktop with:
 
     $ python main.py
 
 ![alt text](screenshots/escape_start.png "Escape running on Android")
 
+If you want to run the game on your android phone, get the Android apk package from the android/ sub-directory
+
+Install it on your phone in many different ways.  For example, use a USB cable to transfer the file and then touch it to install.  
+You can also use send the file to your gmail account.
+
+On your phone, you need to allow installation from "Unknown sources."
+
+![alt text](screenshots/unknown_sources.png "enable install from unknown sources")
 
 Main concepts
 -------------
