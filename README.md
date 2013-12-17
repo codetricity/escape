@@ -11,7 +11,7 @@ Run the game with:
 
     $ python main.py
 
-[alt text](screenshots/escape_start.png "Escape running on Android")
+![alt text](screenshots/escape_start.png "Escape running on Android")
 
 
 Main concepts
@@ -23,7 +23,7 @@ that was run through a design filter on Gimp.  The game does not use a
 tile map loader. 
 * Begin learning the basics of the pygame.sprite.Sprite class.
 
-[alt text](screenshots/escape_jump.png "Player jumping")
+![alt text](screenshots/escape_jump.png "Player jumping")
 
 Programming
 -----------
